@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, <br>I'm Faiza Ashraf</h1>
+<div align="center"> <img src="https://github.com/faizaashraf6093/faizaashraf6093/blob/69c488a242f35bc81410d658364ed7f68f9aa3c8/faiza_banner.png"> </div>
 <h3 align="center">A passionate Flutter Developer with a love for creating beautiful, functional, and user-friendly mobile applications. I'm on a mission to turn ideas into reality through the power of code. </h3>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🔭 I’m currently working on [Drone Sprayer](https://github.com/faizaashraf6093/drone-sprayer)
 
@@ -10,8 +13,6 @@
 - 💬 Ask me about **Flutter, Dart, Firebase**
 
 - 📫 How to reach me **faizashraf0786@gmail.com**
-
-- ⚡ Fun fact **I want to learn Cyber Security but don't know where to start**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
