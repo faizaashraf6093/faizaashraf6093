@@ -3,7 +3,8 @@
 <h1 align="center">👋 Hello, I'm Faiza Ashraf</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Android+Developer; iOS+Developer; Web+App+Developer;Flutter+Developer " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Android+Developer;iOS+Developer;Web+App+Developer;Flutter+Developer" alt="Typing SVG" />
+</p>
 
 </p>
 
