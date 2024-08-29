@@ -78,7 +78,7 @@ Skilled Flutter Developer with a proven track record of delivering high-quality 
       </td>
       <td align="center" style="border: none;">
         <a href="https://dart.dev/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=dart" width="100" height="50" alt="Dart"/>
+          <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="Dart"/>
         </a>
         <br>Dart
       </td>
