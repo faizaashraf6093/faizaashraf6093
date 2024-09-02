@@ -11,14 +11,15 @@
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
 
-<a href="https://linktr.ee/faiza_ashraf">
-<img src="https://img.shields.io/badge/Portfolio-002058?style=flat-square&logo=linktree&logoColor=ffffff"></a> 
-<a href="https://github.com/faizaashraf6093/">
+<a href="https://faizaashraf.vercel.app" target="_blank" >
+<img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=fff"></a> 
+<a href="https://linktr.ee/faiza_ashraf" target="_blank">
+<img src="https://img.shields.io/badge/Linktree-25D366?style=flat-square&logo=linktree&logoColor=ffffff"></a> 
+<a href="https://github.com/faizaashraf6093/" target="_blank">
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1">
-<a href="https://www.linkedin.com/in/faizaashraf6093">
+<a href="https://www.linkedin.com/in/faizaashraf6093" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
-<a href="mailto:faizaashraf0786@gmail.com">
+<a href="mailto:faizaashraf0786@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 <a href="https://wa.me/923054379955?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
@@ -71,25 +72,25 @@ Skilled Flutter Developer with a proven track record of delivering high-quality 
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://flutter.dev/" style="color: white;">
+        <a href="https://flutter.dev/" target="_blank" style="color: white;">
           <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter"/>
         </a>
         <br>Flutter
       </td>
       <td align="center" style="border: none;">
-        <a href="https://dart.dev/" style="color: white;">
+        <a href="https://dart.dev/" target="_blank" style="color: white;">
           <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="Dart"/>
         </a>
         <br>Dart
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML"/>
         </a>
         <br>HTML
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
         </a>
         <br>CSS
@@ -97,25 +98,25 @@ Skilled Flutter Developer with a proven track record of delivering high-quality 
     </tr>
     <tr>
      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="color: white;">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
         </a>
         <br>JavaScript
       </td>
     <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
+        <a href="https://tailwindcss.com/" target="_blank" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
         </a>
         <br>Tailwind
       </td>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
+        <a href="https://reactjs.org/" target="_blank" style="color: white;">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>React
       </td>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
+        <a href="https://nextjs.org/" target="_blank" style="color: white;">
           <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
